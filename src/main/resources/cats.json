@@ -46,5 +46,13 @@
     "mood": 70,
     "health": 78,
     "actionPerformedToday": false
+  },
+  {
+    "name": "Руби",
+    "age": 3,
+    "satiety": 89,
+    "mood": 92,
+    "health": 90,
+    "actionPerformedToday": false
   }
 ]
