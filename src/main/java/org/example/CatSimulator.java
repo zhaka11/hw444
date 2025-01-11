@@ -20,6 +20,7 @@ public class CatSimulator {
             catManager.addCat("Мурзик", 5);
             catManager.addCat("Барсик", 8);
             catManager.addCat("Снежок", 3);
+            catManager.addCat("baby", 4);
             System.out.println("Начальные коты добавлены в систему.");
         }
 
