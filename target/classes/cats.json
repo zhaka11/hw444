@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Мурзик",
+    "age": 5,
+    "satiety": 77,
+    "mood": 92,
+    "health": 90,
+    "actionPerformedToday": false
+  },
+  {
+    "name": "Голубь",
+    "age": 8,
+    "satiety": 60,
+    "mood": 75,
+    "health": 80,
+    "actionPerformedToday": false
+  },
+  {
+    "name": "Котенок",
+    "age": 3,
+    "satiety": 50,
+    "mood": 65,
+    "health": 70,
+    "actionPerformedToday": false
+  },
+  {
+    "name": "Снежок",
+    "age": 4,
+    "satiety": 58,
+    "mood": 76,
+    "health": 68,
+    "actionPerformedToday": false
+  },
+  {
+    "name": "Барсик",
+    "age": 6,
+    "satiety": 40,
+    "mood": 60,
+    "health": 72,
+    "actionPerformedToday": false
+  },
+  {
+    "name": "attractor baby",
+    "age": 7,
+    "satiety": 65,
+    "mood": 70,
+    "health": 78,
+    "actionPerformedToday": false
+  }
+]
